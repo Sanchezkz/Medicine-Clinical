@@ -1,8 +1,8 @@
 # Medicine-Clinical
-SItuação de Aprendizagem (SA) Senai CTTI
-Professor: Wíverson Gomes
-Curso: Desenvolvimento de Sistemas 
-UC: Programação de Aplicativos
+SItuação de Aprendizagem (SA) Senai CTTI |
+Professor: Wíverson Gomes |
+Curso: Desenvolvimento de Sistemas |
+UC: Programação de Aplicativos |
 Grupo: Erick Souza (eu) - Juan Grochowski - Davi Esquerdo - Yasmin Santos
 
 ## Tabela de Conteúdos
