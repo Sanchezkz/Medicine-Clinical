@@ -3,6 +3,7 @@ SItuação de Aprendizagem (SA) Senai CTTI
 Professor: Wíverson Gomes
 Curso: Desenvolvimento de Sistemas 
 UC: Programação de Aplicativos
+Grupo: Erick Souza (eu) - Juan Grochowski - Davi Esquerdo - Yasmin Santos
 
 ## Tabela de Conteúdos
 
@@ -31,6 +32,8 @@ Implementações desejadas
 ➢ Máscara de entrada nos campos preenchidos pelo usuário
 ➢ Campos obrigatórios
 ➢ Integridade do BD
+| O trabalho deverá ser feito em grupo ( Até 5 pessoas) e entregue na data
+especificada pelo Professor
 
 ## Instalação
 Dentro da pasta "DATABASE", está o Banco de dados utilizado no Sistema, use-o dentro de um servidor local, como xampp ou wamp, para que todas funções funcionem corretamente.
