@@ -20,7 +20,7 @@ O sistema deverá permitir:
 ➢ Agendar consultas
 ➢ Registrar o atendimento feito pelo médico
 ➢ Visualizar as consultas agendadas
-O sistema deverá possuir um sistema de Login que permita que os funcionários
+| O sistema deverá possuir um sistema de Login que permita que os funcionários
 acessem os dados.
 Linguagens utilizadas
 ➢ HTML e CSS para criar a interface do Sistema (front-end)
