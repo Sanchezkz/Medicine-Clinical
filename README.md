@@ -36,7 +36,7 @@ Implementações desejadas
 especificada pelo Professor
 
 ## Instalação
-Dentro da pasta "DATABASE", está o Banco de dados utilizado no Sistema, use-o dentro de um servidor local, como xampp ou wamp, para que todas funções funcionem corretamente.
+Dentro da pasta "DATABASE", está o Banco de dados utilizado no Sistema, use-o dentro de um servidor local, como xampp ou wamp, para que todas funções funcionem corretamente. Após fazer o dowload dos arquivos, coloque-os dentro de uma só pasta, do jeito que estão, e coloque-esta pasta dentro da pasta do servidor local que for utilizar. 
 Após subir o Banco de dados e colocar todos os arquivos no servidor local, abrindo o sistema, para se obter acesso após login o usuario correto será "Admin", e a devida senha será "123" 
 
 
