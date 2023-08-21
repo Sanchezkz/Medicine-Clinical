@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/stylelog.css">
+</head>
+    <body>
+        <div class="principal"></div>
+        <div class="container" >
+            <a class="links" id="paracadastro"></a>
+            <a class="links" id="paralogin"></a>
+            
+            <div class="content">      
+              <!--FORMULÁRIO DE LOGIN-->
+              <div id="login">
+                <form method="post" action="content/verificar.php"> 
+                  <h1>Login</h1> 
+                  <p> 
+                    <label for="email_login">Seu usuário</label>
+                    <input id="email_login" name="login" required="required" type="text" placeholder="User"/>
+                  </p>
+                  
+                  <p> 
+                    <label for="senha_login">Sua senha</label>
+                    <input id="senha_login" name="senha" required="required" type="password" placeholder="****" /> 
+                  </p>  
+                  <p> 
+                    <input type="submit" value="Logar" /> 
+                  </p>
+                </form>
+                </div>
+    </body>
+</html>

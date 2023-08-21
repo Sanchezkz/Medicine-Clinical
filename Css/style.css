@@ -1,0 +1,132 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+*{
+  scroll-behavior: smooth;
+
+}
+body {
+  font-family: "Lato";
+  color: #4a4a4a;
+  background-color: #f7ece0;
+  scroll-behavior: smooth;
+}
+header{
+    top: 0;
+    display: flex;
+    width: 100%;
+}
+ul, a {
+    text-decoration: none;
+    list-style: none;
+    list-style: none;
+    color: #ffffff;
+}
+p{
+  text-decoration: none;
+  list-style: none;
+  list-style: none;
+  color: #4F4F4F;
+}
+.principal{
+    background-image: url(../Galery/medica-sorridente-na-vista-frontal-da-clinica.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+    margin-top: 0px;
+}
+.text{
+    position: relative;
+    line-height: 6.5em;
+    width: 45%;
+    top: 25%;
+    left: 55%;
+}
+.text h1{
+  font-size: 7em;
+}
+.banner  {
+    display: flex;
+    width: 100%;
+    font-size: 4em;
+    text-align:center;
+    color: #4F4F4F;
+}
+.banner h1{
+    margin: 0;
+    width: 100%; 
+    margin-top: 2px;
+}
+.opcoes{
+    position: absolute;
+    right: 45%;
+    bottom: -115%;
+    text-align: left;
+    line-height: 4em;
+    width: 700px;
+    }
+.opcoes li a{
+      color: #fff;
+      background-color: #606C5D;
+      padding: 15px;
+      border-radius: 15px;
+}
+#exp{
+    position: absolute;
+    bottom: -175%;
+    height: 790px;
+    width: 950px;
+    right: 100px;
+}
+    .main {
+        width: 45%;
+        min-width: 330px;
+      }  
+      nav ul {
+        text-align: center;
+      } 
+      nav li {
+        background-color: #606C5D;
+        color: #ffffff;
+        list-style-type: none;
+        padding: 15px 0;
+        border-top: 1px solid #ffffff33;
+        border-bottom: 1px solid #ffffff33;
+        border-left: 1px solid #ffffff33;
+      }   
+      nav li:last-child {
+        border-right: 1px solid #ffffff33;
+      }  
+      nav {
+        width: 100%;
+      }     
+      nav ul {
+        display: flex;
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+      }    
+      nav ul li {
+        flex-grow: 1;
+      }  
+      nav ul li a {
+        display: block;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      .main {
+        width: 45%;
+        min-width: 330px;
+        margin: 40px auto;
+        padding: 20px;
+        background: silver;
+        border-radius: 6px;
+      }
+      .h1menu{
+        font-size: 3em;
+      }
+
+* {
+  font-family: Open Sans;
+}
